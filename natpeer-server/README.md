@@ -4,18 +4,18 @@ The rendezvous server
 
 ## Instructions
 
-Required software:
+Required software
 
 * Node.js and npm (they should come together)
-* GCC compiler collection for building native dependencies
+* GCC for building native modules
 * MongoDB
 
-You need to register an application over the
+You need to register a new application over the
 [Google API Console](https://code.google.com/apis/console/) and set up the
 Google Cloud Messaging for Android service. After that, enter the API key to
 `natpeer-server.js:16`.
 
-Install the dependencies
+Install the required Node.js modules
 ```
 npm install
 ```

@@ -4,13 +4,18 @@ The Android application
 
 ## Build instructions
 
-Dependencies:
+### Dependencies / Requirements
 
 * [Android SDK](https://developer.android.com/sdk/index.html)
 * [Android NDK](https://developer.android.com/tools/sdk/ndk/index.html)
 * [Apache Ant](https://ant.apache.org/)
 * [http-request 4.1](http://mvnrepository.com/artifact/com.github.kevinsawicki/http-request/4.1)
 * [gcm.jar](https://developer.android.com/google/gcm/gs.html#libs)
+* Rooted Android smartphone
+* natpeer-android executable built for Android (see libnatpeer folder for
+  instructions) and installed to `/system/bin/` folder
+
+### Build
 
 Create `local.properties` file and define two variables which point to
 `$SDK_ROOT` and `$NDK_ROOT` respectively
