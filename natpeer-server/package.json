@@ -1,0 +1,15 @@
+{
+  "name": "natpeer-server",
+  "author": "Kristjan Reinloo",
+  "preferGlobal": false,
+  "version": "0.0.1",
+  "dependencies": {
+    "express" : ">=3.1.0",
+    "mongoose": ">=3.6.0",
+    "needle"  : ">=0.4.8"
+  },
+  "engines": {
+    "node": ">=0.10.1"
+  },
+  "scripts": { "start": "node natpeer-server.js" }
+}
