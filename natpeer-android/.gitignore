@@ -1,0 +1,9 @@
+bin/
+gen/
+obj/
+libs/armeabi/
+.settings
+.classpath
+.project
+.cproject
+local.properties

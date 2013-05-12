@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/option_add_service"
+        android:title="@string/option_add_service">
+    </item>
+    <item
+        android:id="@+id/option_delete_service"
+        android:title="@string/option_delete_service">
+    </item>
+    <item
+        android:id="@+id/option_check_gcm_status_register"
+        android:title="@string/option_check_gcm_status_register">
+    </item>
+    <item
+        android:id="@+id/option_unregister"
+        android:title="@string/option_unregister">
+    </item>
+    <item
+        android:id="@+id/option_nat_settings"
+        android:title="@string/option_nat_settings">
+    </item>
+    <item
+        android:id="@+id/option_exit"
+        android:title="@string/option_exit">
+    </item>
+
+</menu>

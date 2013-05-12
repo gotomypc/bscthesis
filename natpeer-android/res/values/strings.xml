@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NATPeerAndroid</string>
+    <string name="option_add_service">Add service</string>
+    <string name="option_delete_service">Delete service</string>
+    <string name="option_check_gcm_status_register">Register / Check status</string>
+    <string name="option_unregister">Unregister</string>
+    <string name="option_nat_settings">NAT Settings</string>
+    <string name="option_exit">Exit</string>
+    <string name="dialog_add_service_title">Add a new service</string>
+    <string name="dialog_add_service_port_local">local port</string>
+    <string name="dialog_add_service_name">service name</string>
+
+</resources>

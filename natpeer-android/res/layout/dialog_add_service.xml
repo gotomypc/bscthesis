@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <EditText
+        android:id="@+id/dialog_add_service_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/dialog_add_service_name"
+        android:inputType="text" />
+    
+    <EditText
+        android:id="@+id/dialog_add_service_port_local"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/dialog_add_service_port_local"
+        android:inputType="text|number" />
+
+</LinearLayout>
